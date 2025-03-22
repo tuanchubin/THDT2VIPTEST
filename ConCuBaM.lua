@@ -1,4 +1,3 @@
-@lytankiet:--dead rails wall hack aimbot.
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 player.CameraMode = Enum.CameraMode.Classic
